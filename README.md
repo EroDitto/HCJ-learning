@@ -1,2 +1,2 @@
 # learning
-learning projects
+mini projects
