@@ -1,2 +1,2 @@
-# calculator
+# learning
 learning projects
